@@ -1,0 +1,23 @@
+{
+  "name": "class1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snehasish",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.24.1"
+  }
+}
